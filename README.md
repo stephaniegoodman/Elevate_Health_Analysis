@@ -10,7 +10,7 @@ There are three main tables referenced, with the Entity Relationship Diagram (ER
 ![image](https://github.com/stephaniegoodman/Elevate_Health_Analysis/assets/65201326/462cfbbc-8856-4822-91d2-7901ebfef569)
 
 ## Process-Driven Documentation and Deliverables
-- Completed Tableau dashboard can be accessed [here].<https://public.tableau.com/views/ElevateHealthClaimsInvestigation/ClaimsInvestigationDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link>)
+- Completed Tableau dashboard can be accessed [here].(<https://public.tableau.com/views/ElevateHealthClaimsInvestigation/ClaimsInvestigationDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link>)
 - High-level and data driven insights can be found below
 - In this project, a stakeholder powerpoint was created, and a presentation was arranged for the claims management and marketing teams (full presentation available upon request)
 <img width="786" alt="Screen Shot 2024-04-01 at 2 56 54 PM" src="https://github.com/stephaniegoodman/Elevate_Health_Analysis/assets/65201326/50a3fb20-a084-4317-9a71-5e305f8ec2c2">
