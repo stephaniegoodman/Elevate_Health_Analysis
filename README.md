@@ -1,4 +1,4 @@
-# Elevate_Health_Analysis
+# Elevate_Health_Claims_Analysis
 Founded in 2016, Elevate Health is a medical insurance company that serves thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics such as wellness tips, plan affordability, and preventative care. Elevate Health customers can sign up for 4 different plans: bronze, silver, gold, and platiunum, each with different premiums and claim coverage rates.
 
 Elevate Health has hired a new data team to assist them in strategizing their marketing budget for the year. The company aims to build a more robust understanding of these campaign categories and how they relate to signups and subsqeutent patient claims.
